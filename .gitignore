@@ -1,0 +1,2 @@
+*.o
+/amd64/darwin/hello

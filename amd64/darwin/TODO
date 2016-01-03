@@ -1,0 +1,6 @@
+TODO
+
+- Track down (and commit / document) resources:
+  1) Darwin/XNU ABI - how do I do syscalls?
+  2) amd64 Intruction Reference
+  3) amd64 Memory Addressing Modes
